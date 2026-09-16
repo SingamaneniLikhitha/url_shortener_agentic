@@ -1,4 +1,4 @@
-# Agentic URL Shortener — Interview Assignment
+# Agentic URL Shortener
 
 A runnable URL shortener prototype combined with a stateful, provider-independent agentic SDLC orchestration control plane.
 
